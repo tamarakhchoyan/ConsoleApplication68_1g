@@ -9,7 +9,8 @@ int main()
 		if(a[i]>5 && a[i]%2==0)
 		{
 			sum += a[i];
-			std::cout <<sum << std::endl;
 		}
+				std::cout <<sum << std::endl;
+
 	return 0;
 }
